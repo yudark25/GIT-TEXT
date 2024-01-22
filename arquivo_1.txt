@@ -1,7 +1,6 @@
     -- INICIO --
 
-    -> 1.
-    -> 2.
+    -> 2. segundo commit
     -> 3.
     -> 4.
     -> 5.
