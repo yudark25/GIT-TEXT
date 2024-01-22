@@ -1,7 +1,7 @@
     -- INICIO --
 
     -> 2. segundo commit
-    -> 3.
+    -> 3. primeiro commit da feature
     -> 4. terceiro commit
     -> 5.
     -> 6.
