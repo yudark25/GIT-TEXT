@@ -2,6 +2,6 @@
 
     -> 2. segundo commit
     -> 3.
-    -> 4.
+    -> 4. terceiro commit
     -> 5.
     -> 6.
